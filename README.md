@@ -19,10 +19,10 @@ Python, Pandas, Scikit-learn, PyTorch 등
 ## 🗂 폴더 구조
 ```
 my-project/
-├── README.md        ← 가장 중요
+├── README.md        
 ├── notebooks/       ← 디지털 상의 데이터를 이용해 모델을 만들었습니다.
 ├── src/             ← 직접 제작한 데이터를 이용해 모델을 만들었습니다.
-├── data/            ← 샘플 데이터 (전체 X, 일부만)
+├── data/            ← 샘플 데이터
 └── requirements.txt ← 사용한 라이브러리 목록
 ```
 
