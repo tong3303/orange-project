@@ -17,13 +17,17 @@ Python, Pandas, Scikit-learn, PyTorch 등
 - 하이퍼 파라미터 튜닝 스킬 부족.
 
 ## 🗂 폴더 구조
+```
 my-project/
 ├── README.md        ← 가장 중요
 ├── notebooks/       ← Jupyter notebook (.ipynb)
 ├── src/             ← 파이썬 스크립트
 ├── data/            ← 샘플 데이터 (전체 X, 일부만)
 └── requirements.txt ← 사용한 라이브러리 목록
+```
 
 ## 🚀 실행 방법
+```bash
 pip install -r requirements.txt
 python main.py
+```
