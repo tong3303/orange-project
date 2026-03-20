@@ -1,1 +1,2 @@
-orange_df은 ML.ipynb, DL.ipynb에 사용된 데이터입니다.
+- orange_df.csv는 ML.ipynb, DL.ipynb에 사용된 데이터입니다.
+- synthetic_orange_data_2000_kde.csv는 model.py에 사용된 데이터입니다.
