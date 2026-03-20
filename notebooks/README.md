@@ -1,0 +1,2 @@
+- ML.ipynb : 머신러닝 regression 기법들로 당도 예측을 시도했습니다.
+- DL.ipynb : 머신러닝 DNN 기법으로 당도 예측을 시도했습니다.
