@@ -20,14 +20,8 @@ Python, Pandas, Scikit-learn, PyTorch 등
 ```
 my-project/
 ├── README.md        
-├── notebooks/       ← 디지털 상의 데이터를 이용해 모델을 만들었습니다.
-├── src/             ← 직접 제작한 데이터를 이용해 모델을 만들었습니다.
-├── data/            ← 샘플 데이터
-└── requirements.txt ← 사용한 라이브러리 목록
-```
-
-## 🚀 실행 방법
-```bash
-pip install -r requirements.txt
-python main.py
+├── notebooks/       ← 디지털 상의 데이터를 이용
+├── src/             ← 직접 제작한 데이터를 이용
+├── data/           
+└── requirements.txt 
 ```
